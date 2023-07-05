@@ -1,0 +1,8 @@
+D:\GitHub\Project\CGO_Tinhdientich\CGO_Tinhdientich\bin\Debug\CGO_Tinhdientich.exe.config
+D:\GitHub\Project\CGO_Tinhdientich\CGO_Tinhdientich\bin\Debug\CGO_Tinhdientich.exe
+D:\GitHub\Project\CGO_Tinhdientich\CGO_Tinhdientich\bin\Debug\CGO_Tinhdientich.pdb
+D:\GitHub\Project\CGO_Tinhdientich\CGO_Tinhdientich\obj\Debug\CGO_Tinhdientich.csproj.AssemblyReference.cache
+D:\GitHub\Project\CGO_Tinhdientich\CGO_Tinhdientich\obj\Debug\CGO_Tinhdientich.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\CGO_Tinhdientich\CGO_Tinhdientich\obj\Debug\CGO_Tinhdientich.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\CGO_Tinhdientich\CGO_Tinhdientich\obj\Debug\CGO_Tinhdientich.exe
+D:\GitHub\Project\CGO_Tinhdientich\CGO_Tinhdientich\obj\Debug\CGO_Tinhdientich.pdb
